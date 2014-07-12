@@ -1,0 +1,5 @@
+Nuget 
+
+Add to CodeStock.Core
+	HttpClient
+	ModernHttpClient

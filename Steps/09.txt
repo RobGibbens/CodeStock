@@ -1,0 +1,4 @@
+Nuget 
+
+Add to CodeStock.Core
+	Json.Net

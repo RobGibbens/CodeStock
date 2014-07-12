@@ -1,0 +1,9 @@
+Run apps
+
+iPhone - Set configuration to Debug/iPhoneSimulator, and choose platform (iOS 7.1, etc)
+
+Android - Set configuration to Debug, Any CPU or x86, and choose emulator
+
+Windows Phone - Set configuration to Debug, x86
+
+Windows Store - Set configuration to Debug, x86

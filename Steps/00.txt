@@ -1,0 +1,16 @@
+//*****************************
+// Notes
+//*****************************
+
+Have simulator, emulators loaded
+Have Xamarin.iOS Build Host running
+
+Remember to switch solution configurations between platforms
+
+
+01 - 02 - Create ViewModel
+03 - 05 - Create Models
+06 - 17 - Download from API
+18 - 27 - Bind Conferences
+28 - 42 - Add SQLite
+43 - 57 - Navigate to Conference View

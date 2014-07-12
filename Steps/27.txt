@@ -1,0 +1,25 @@
+Nuget 
+
+Add to CodeStock.Core
+	SQLite.Net-PCL
+	SQLite.Net.Async-PCL
+
+Add to CodeStock.iOS
+	SQLite.Net-PCL
+	SQLite.Net.Async-PCL
+	SQLite.Net.Platform.XamarinIos
+
+Add to CodeStock.Droid
+	SQLite.Net-PCL
+	SQLite.Net.Async-PCL
+	SQLite.Net.Platform.XamarinAndroid
+
+Add to CodeStock.Phone
+	SQLite.Net-PCL
+	SQLite.Net.Async-PCL
+	SQLite.Net.Platform.WindowsPhone8
+
+Add to CodeStock.Store
+	SQLite.Net-PCL
+	SQLite.Net.Async-PCL
+	SQLite.Net.Platform.WinRT

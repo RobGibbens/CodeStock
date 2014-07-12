@@ -1,0 +1,7 @@
+Nuget 
+
+Add to CodeStock.Core
+	AutoMapper
+
+Add to CodeStock.Store
+	AutoMapper
